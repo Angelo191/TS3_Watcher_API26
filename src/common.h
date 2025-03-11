@@ -42,7 +42,7 @@ using namespace std;
 	
 #define PLUGIN_NAME "Channel Watcher"
 #define PLUGIN_VERSION VER_FILE_VERSION_STR
-#define PLUGIN_API_VERSION 23
+#define PLUGIN_API_VERSION 26
 #define PLUGIN_AUTHOR "nimradium"
 #define PLUGIN_DESCRIPTION "Watches selected channels (e.g. Support-Channels) and notifies you when a user joins this channels."
 
